@@ -1,0 +1,25 @@
+@font-face {
+    font-family: nexaRustScript;
+    src: url(../../fonts/nexarust/NexaRustScriptL-0.otf);
+}
+
+@font-face {
+    font-family: nexaRustBlack;
+    src: url(../../fonts/nexarust/NexaRustSans-Black.otf);
+}
+
+@font-face {
+    font-family: nexaRustShadow;
+    src: url(../../fonts/nexarust/NexaRustSlab-BlackShadow01.otf);
+}
+
+@font-face {
+    font-family: nexaRustHandmade;
+    src: url(../../fonts/nexarust/NexaRustHandmade-Extended.otf);
+}
+
+@font-face {
+    font-family: nexaRustExtras;
+    src: url(../../fonts/nexarust/NexaRustExtras-Free.otf);
+}
+
